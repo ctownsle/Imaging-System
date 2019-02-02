@@ -1,2 +1,2 @@
 # Imaging-System
-Store patient data based on randomly generated dcm files and be able to access this information easily. For simplicity's sake, this program uses a command line interface
+This program emulates a patient information system, where each dcm file represents a patient ID and a date time. The information is stored using persistent B-Trees and Hash Tables. A command line interface is used to represent the data for simplicity sakes. 
